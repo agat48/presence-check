@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Psalmodia</string>
+    <string name="action_settings">Settings</string>
+    <string name="menuCheckList">Sprawdź obecność</string>
+    <string name="menuViewList">Przeglądaj członków</string>
+    <string name="menuOther">Jeszcze nie wiem</string>
+    <string name="S">Sopran</string>
+    <string name="A">Alt</string>
+    <string name="T">Tenor</string>
+    <string name="B">Bas</string>
+
+    <string-array name="voices">
+        <item>Sopran</item>
+        <item>Alt</item>
+        <item>Tenor</item>
+        <item>Bas</item>
+    </string-array>
+    
+</resources>
